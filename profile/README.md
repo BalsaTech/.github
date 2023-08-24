@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/BalsaTech/.github/assets/57500163/82a9819d-5d6e-4eb9-8e5f-fb9fc26f0449" alt="BalsaTech Logo">
+  <img src="https://github.com/BalsaTech/.github/assets/57500163/bf2cf0c8-c32b-41ca-ab9d-e940ce4bd00c" alt="BalsaTech Logo">
+
+
 </p>
 
 # BalsaTech
